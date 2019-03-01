@@ -5,4 +5,4 @@ Auxilary Space = O(1)
 Max number of swaps = O(n)
 Useful when memory is costly
 
-Not stable but stability can be derived
+Not stable but stability can be derived.
