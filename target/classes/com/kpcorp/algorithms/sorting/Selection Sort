@@ -1,0 +1,8 @@
+Time complexity = o(n2)
+As there are 2 for loops
+
+Auxilary Space = O(1)
+Max number of swaps = O(n)
+Useful when memory is costly
+
+Not stable but stability can be derived
